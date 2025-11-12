@@ -15,7 +15,8 @@
   </a> 
 </p>
 
-**<h3 align="center">💻 About Me I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
+**<h3 align="center">💻 About Me 
+      I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
 My work blends clean code, intuitive design, and high performance — creating digital experiences that feel effortless.</h3>**
 
 **<h3 align="left">⚙️ What I Do</h3>**
