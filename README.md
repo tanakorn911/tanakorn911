@@ -1,4 +1,4 @@
-![👋 Hi there, my name is Tanakorn Kaewmai](https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![👋 Hi there, my name is Tanakorn Kaewmai](https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/0*giphy.gif)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
