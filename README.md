@@ -16,7 +16,8 @@
 </p>
 
 **<h3 align="center">💻 About Me 
-      I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
+
+  I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
 My work blends clean code, intuitive design, and high performance — creating digital experiences that feel effortless.</h3>**
 
 **<h3 align="left">⚙️ What I Do</h3>**
@@ -39,13 +40,14 @@ My work blends clean code, intuitive design, and high performance — creating d
 </p>
 
 <p align="left">
+  <!-- Top languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
+</p>
+
+<p align="left">
   <!-- Main GitHub stats card -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanakorn911&show_icons=true&theme=react&count_private=true" alt="GitHub stats Card" />
   <!-- Streak stats -->
   <img width="48%" src="https://streak-stats.demolab.com/?user=tanakorn911&theme=react" alt="GitHub streak Card" />
 </p>
 
-<p align="left">
-  <!-- Top languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
-</p>
