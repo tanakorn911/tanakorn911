@@ -4,7 +4,6 @@
       <h1>
         👋 Hi there, my name is Tanakorn Kaewmai
       </h1>
-      <h3>🚀 Passionate Fullstack Web Developer</h3>
     </summary>
   </ul>
 </div>
