@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" alt="Fullstack Developer Banner" width="100%">
+  <img src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" alt="Fullstack Developer Banner" width="80%">
 </p>
 
 <div id="toc">
