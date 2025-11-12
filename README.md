@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Fullstack Developer Banner" width="100%">
+  <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Fullstack Developer Banner" width="50%">
 </p>
 
 <div id="toc">
