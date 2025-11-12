@@ -1,4 +1,6 @@
-![👋 Hi there, my name is Tanakorn Kaewmai](https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+<p align="left">
+  <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Fullstack Developer Banner" width="100%">
+</p>
 
 <div id="toc">
   <ul align="left" style="list-style: none">
