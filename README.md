@@ -36,7 +36,7 @@ My work blends clean code, intuitive design, and high performance — creating d
 
 <p align="left">
   <!-- Top languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
 </p>
 
 
