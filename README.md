@@ -1,4 +1,3 @@
-![👋 Hi there, my name is Tanakorn Kaewmai](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
