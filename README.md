@@ -2,7 +2,7 @@
   <img src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif" alt="Fullstack Developer Banner" width="80%">
 </p>
 
-<h2> Hi ! <img src= "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Tanakorn Kaewmai </h2>
+<h2> Hi ! <img src= "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20%"> My name is Tanakorn Kaewmai </h2>
 
 **<h3 align="left">Connect with me</h3>** 
 <p align="left">
