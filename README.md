@@ -4,12 +4,11 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tanakorn Kaewmai
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">Connect with me</h3>** 
 <p align="left">
   <a href="https://www.facebook.com/dekhere.2005" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28" style="margin-right: 4px">
   </a>
-  <p align="left">
   <a href="https://github.com/tanakorn911" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px">
   </a>
