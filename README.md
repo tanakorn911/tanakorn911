@@ -35,19 +35,8 @@ My work blends clean code, intuitive design, and high performance — creating d
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <!-- Profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=tanakorn911&style=flat-square" alt="Profile views" height="28" style="margin-right: 8px" />
-</p>
-
-<p align="left">
   <!-- Top languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
 </p>
 
-<p align="left">
-  <!-- Main GitHub stats card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tanakorn911&show_icons=true&theme=react&count_private=true" alt="GitHub stats Card" />
-  <!-- Streak stats -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=tanakorn911&theme=react" alt="GitHub streak Card" />
-</p>
 
