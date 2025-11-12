@@ -15,14 +15,17 @@
   </a> 
 </p>
 
-**<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+**<h3 align="center">💻 About Me
 
-**<h3 align="left">Rapid Fire</h3>**
+I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
+My work blends clean code, intuitive design, and high performance — creating digital experiences that feel effortless.</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a modern business dashboard using Next.js and Node.js**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, TypeScript, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎨 I love creating clean UI while listening to lo-fi music.**
+**<h3 align="left">⚙️ What I Do</h3>**
 
+- 🧩 Building modern web apps using **React,** and **Node.js.**
+- 🚀 Designing and optimizing **RESTful APIs** and **MongoDB** backends.
+- 🎨 Crafting responsive UI with **TypeScript, Tailwind CSS,** and a minimalist touch**
+  
 **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
