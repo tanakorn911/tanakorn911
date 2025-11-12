@@ -35,7 +35,7 @@ My work blends clean code, intuitive design, and high performance — creating d
 
 - 🧩 Building modern web apps using **React,** and **Node.js.**
 - 🚀 Designing and optimizing **RESTful APIs** and **MongoDB** backends.
-- 🎨 Crafting responsive UI with **TypeScript, Tailwind CSS,** and a minimalist touch**
+- 🎨 Crafting responsive UI with **TypeScript, Tailwind CSS,** and a minimalist touch
   
 **<h3 align="left">Skills</h3>**
 
