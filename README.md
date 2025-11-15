@@ -25,12 +25,6 @@
 
 I'm a Fullstack Web Developer who loves turning ideas into elegant, functional, and scalable web applications.
 My work blends clean code, intuitive design, and high performance — creating digital experiences that feel effortless.
-
-**<h3 align="left">⚙️ What I Do</h3>**
-
-- 🧩 Building modern web apps using **React,** and **Node.js.**
-- 🚀 Designing and optimizing **RESTful APIs** and **MongoDB** backends.
-- 🎨 Crafting responsive UI with **TypeScript, Tailwind CSS,** and a minimalist touch
   
 **<h3 align="left">Skills</h3>**
 
