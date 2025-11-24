@@ -57,10 +57,6 @@ My work blends clean code, intuitive design, and high performance — creating d
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" 
          alt="Flask" title="Flask" width="36" height="36" style="margin-right:8px; margin-bottom:8px;" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
-         alt="NodeJS" title="NodeJS" width="36" height="36" style="margin-right:8px; margin-bottom:8px;" />
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" 
          alt="Figma" title="Figma" width="36" height="36" style="margin-right:8px; margin-bottom:8px;" />
