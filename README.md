@@ -67,8 +67,12 @@ My work blends clean code, intuitive design, and high performance — creating d
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <!-- Top languages -->
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanakorn911&show_icons=true&theme=react&hide_border=true" alt="Tanakorn's GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+  </a>
 </p>
 
 
