@@ -43,10 +43,10 @@ Currently, I am looking for an **internship opportunity** where I can gain real-
 ## 🧠 Technical Skills
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,ts,bootstrap,tailwind" />
 
 ### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,js" />
 
 ### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
