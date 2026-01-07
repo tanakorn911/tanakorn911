@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1614854262318-831574f15f1f" width="100%" alt="Anime Developer Banner"/>
+  <img src="https://wallpaperaccess.com/full/8351166.jpg" width="100%" alt="Anime Coding Banner"/>
 </p>
 
 <h2 align="center">
