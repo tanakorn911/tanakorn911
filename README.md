@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Fullstack Developer Banner" width="50%" />
+  <img src="https://images.unsplash.com/photo-1614854262318-831574f15f1f" width="100%" alt="Anime Developer Banner"/>
 </p>
 
 <h2 align="center">
