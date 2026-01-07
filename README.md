@@ -64,23 +64,15 @@ I focus on:
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanakorn911&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanakorn911&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakorn911&layout=compact&theme=github_dark&hide_border=true&langs_count=6&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tanakorn911&theme=github-dark&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanakorn911&theme=github-dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
