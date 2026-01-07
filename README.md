@@ -1,101 +1,89 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1829918517/vector/programming-software-development-computer-technology-isometric-concept-coding-of-program.jpg?s=612x612&w=0&k=20&c=bZ3C2XvyJTQri6QEAGnf4MKCKl-u4ieIUosYu7Kkj68=" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=230&section=header&text=Fullstack%20Developer&fontSize=48&fontColor=38bdf8&desc=Build.%20Design.%20Scale.&descAlignY=70&animation=fadeIn" />
 </p>
 
 <h2 align="center">
-  Hi! 👋 I'm Tanakorn Kaewmai
+Hi, I'm Tanakorn Kaewmai 👋
 </h2>
 
 <p align="center">
-  Fullstack Web Developer | Computer Science Student
+Fullstack Web Developer • Clean Code • Scalable Systems
 </p>
-
----
-
-## 👋 About Me
-I am a **Fullstack Web Developer** with a strong interest in building clean, scalable, and practical web applications.
-
-I enjoy transforming ideas into real products by combining:
-- Well-structured backend logic  
-- Intuitive and responsive frontend design  
-- Clean, maintainable, and readable code  
-
-I am continuously learning and improving through real-world projects.
 
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://www.facebook.com/dekhere.2005">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/tanakorn911">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/11nineteen_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tanakorn-kaewmai-430288396/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 About Me
 
-### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
-</p>
+I'm a **Fullstack Web Developer** who enjoys building modern, scalable web applications.
 
-### ⚙️ Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="36"/>
-</p>
+I focus on:
+- Clean & maintainable code  
+- Well-structured backend systems  
+- Responsive and intuitive UI  
+- Real-world usable projects  
 
-### 🧰 Tools & Others
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
-</p>
+Currently improving my skills in **modern JavaScript ecosystems and system design**.
 
 ---
 
-## 📌 What I Do
-- Develop fullstack web applications
-- Build modern frontend with React & Next.js
-- Design RESTful APIs with Node.js / Flask
-- Work with authentication and databases
-- Translate requirements into real-world solutions
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,tailwind" />
+
+### 🛠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask" />
+
+### ⚙️ Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
-## 🚀 Current Focus
-- Building production-ready Fullstack applications
-- Improving backend & API architecture
-- Writing scalable and maintainable code
-- Preparing for a professional software developer career
+## 🚀 What I Can Do
+
+- Build Fullstack Web Applications (Frontend + Backend)
+- Design & Develop REST APIs
+- Authentication & Authorization Systems
+- Responsive UI / UX Implementation
+- Deploy & Maintain Web Projects
 
 ---
 
-## 📫 Contact
-Feel free to reach out for collaboration or opportunities.
+## 📌 Current Focus
 
-- GitHub: https://github.com/tanakorn911  
-- LinkedIn: Tanakorn Kaewmai  
+- Next.js & TypeScript
+- Backend Architecture
+- Real-world Fullstack Projects
+- Clean Code & Best Practices
+
+---
+
+## 🧑‍💻 Motto
+
+> "Code is not just about making things work,  
+> it's about making them **right**."
 
 ---
 
 <p align="center">
-  <i>"Good software is built with clarity, consistency, and purpose."</i>
+  <img src="https://i.pinimg.com/originals/2f/91/8e/2f918e0fbd8f7f7d3e8e4c2a58f0e3a9.gif" width="60%" />
 </p>
