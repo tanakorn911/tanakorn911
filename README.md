@@ -41,7 +41,7 @@ I focus on:
 - Responsive and intuitive UI  
 - Real-world usable projects  
 
-Currently improving my skills in **modern JavaScript ecosystems and system design**.
+Currently improving my skills in **modern JavaScript and Python ecosystems and system design**.
 
 ---
 
