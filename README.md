@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/8351166.jpg" width="100%" alt="Anime Coding Banner"/>
+  <img src="https://media.istockphoto.com/id/1829918517/vector/programming-software-development-computer-technology-isometric-concept-coding-of-program.jpg?s=612x612&w=0&k=20&c=bZ3C2XvyJTQri6QEAGnf4MKCKl-u4ieIUosYu7Kkj68=" width="100%"/>
 </p>
 
 <h2 align="center">
