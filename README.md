@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=230&section=header&text=Fullstack%20Developer&fontSize=48&fontColor=38bdf8&desc=Build.%20Design.%20Scale.&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Aspiring%20Fullstack%20Developer&fontSize=44&fontColor=38bdf8&desc=Internship%20Ready%20•%20Eager%20to%20Learn&descAlignY=70&animation=fadeIn" />
 </p>
 
 <h2 align="center">
@@ -7,12 +7,12 @@ Hi, I'm Tanakorn Kaewmai 👋
 </h2>
 
 <p align="center">
-Fullstack Web Developer • Clean Code • Scalable Systems
+Computer Science Student • Aspiring Fullstack Developer
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contact & Social
 
 <p align="center">
   <a href="https://www.facebook.com/dekhere.2005">
@@ -31,21 +31,16 @@ Fullstack Web Developer • Clean Code • Scalable Systems
 
 ---
 
-## 💻 About Me
+## 🎓 About Me
 
-I'm a **Fullstack Web Developer** who enjoys building modern, scalable web applications.
+I am a **Computer Science student (Year 2–3)** with a strong interest in **Fullstack Web Development**.
 
-I focus on:
-- Clean & maintainable code  
-- Well-structured backend systems  
-- Responsive and intuitive UI  
-- Real-world usable projects  
-
-Currently improving my skills in **modern JavaScript and Python ecosystems and system design**.
+I enjoy learning by building real projects and continuously improving my coding skills.  
+Currently, I am looking for an **internship opportunity** where I can gain real-world experience, learn from professionals, and contribute to a development team.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,tailwind" />
@@ -53,37 +48,46 @@ Currently improving my skills in **modern JavaScript and Python ecosystems and s
 ### 🛠 Backend
 <img src="https://skillicons.dev/icons?i=nodejs,python,flask" />
 
-### ⚙️ Tools & Design
+### ⚙️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
-## 🚀 What I Can Do
+## 🧪 What I Have Experience With
 
-- Build Fullstack Web Applications (Frontend + Backend)
-- Design & Develop REST APIs
-- Authentication & Authorization Systems
-- Responsive UI / UX Implementation
-- Deploy & Maintain Web Projects
-
----
-
-## 📌 Current Focus
-
-- Next.js & TypeScript
-- Backend Architecture
-- Real-world Fullstack Projects
-- Clean Code & Best Practices
+- Building basic Fullstack Web Applications
+- Creating REST APIs and connecting Frontend with Backend
+- Designing responsive user interfaces
+- Working with Git & GitHub for version control
+- Learning and applying modern web technologies
 
 ---
 
-## 🧑‍💻 Motto
+## 🎯 Internship Goals
 
-> "Code is not just about making things work,  
-> it's about making them **right**."
+- Gain hands-on experience in real-world projects
+- Improve my Fullstack development skills
+- Learn best practices from professional developers
+- Understand teamwork and software development workflow
+
+---
+
+## 📌 Currently Learning
+
+- Advanced JavaScript & TypeScript
+- Next.js Framework
+- Backend structure & API design
+- Clean Code & Project Organization
+
+---
+
+## 💬 Mindset
+
+> "I may still be learning,  
+> but I am committed, responsible, and always ready to improve."
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2f/91/8e/2f918e0fbd8f7f7d3e8e4c2a58f0e3a9.gif" width="60%" />
+  <img src="https://i.pinimg.com/originals/2f/91/8e/2f918e0fbd8f7f7d3e8e4c2a58f0e3a9.gif" width="55%" />
 </p>
