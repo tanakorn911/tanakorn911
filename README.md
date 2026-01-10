@@ -54,7 +54,7 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 </p>
 
 ### 🔬 Exploring & Learning
-<img src="https://skillicons.dev/icons?i=react,neodejs,tailwind,angular,docker,git,linux,postgres" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,angular,docker,git,linux,postgres" />
 
 ### 🤖 AI-Assisted Workflow
 <p>
