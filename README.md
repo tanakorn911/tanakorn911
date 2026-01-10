@@ -48,13 +48,13 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 
 ### 🛠 Web Development (My Focus)
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,mysql" />
+  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,postgres" />
   <br>
   I can build functional web apps using <b>Python (Django/Flask)</b> and connect them to databases.
 </p>
 
 ### 🔬 Exploring & Learning
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,angular,docker,git,linux,postgres" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,docker,git,linux" />
 
 ### 🤖 AI-Assisted Workflow
 <p>
