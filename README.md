@@ -54,16 +54,17 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 </p>
 
 ### 🔬 Exploring & Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,linux" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,linux,postgres" />
 
 ### 🤖 AI-Assisted Workflow
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-AE4C33?style=flat-square&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AE4C33?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-222222?style=for-the-badge&logo=perplexity&logoColor=white" />
 </p>
 
 ---
