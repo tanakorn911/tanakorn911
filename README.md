@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Aspiring%20Fullstack%20Developer&fontSize=44&fontColor=38bdf8&desc=Tech-Savvy%20•%20AI-Adaptive%20•%20Data-Driven&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Computer%20Science%20Student&fontSize=40&fontColor=38bdf8&desc=Year%202%20@%20University%20of%20Phayao%20•%20Eager%20to%20Learn&descAlignY=70&animation=fadeIn" />
 </p>
 
 <h2 align="center">
@@ -7,7 +7,7 @@ Hi, I'm Tanakorn Kaewmai 👋
 </h2>
 
 <p align="center">
-Computer Science Student • Fullstack Enthusiast • AI-Assisted Developer
+Computer Science Student (Year 2) • Aspiring Fullstack Developer
 </p>
 
 ---
@@ -33,78 +33,68 @@ Computer Science Student • Fullstack Enthusiast • AI-Assisted Developer
 
 ## 🎓 About Me
 
-I am a **Computer Science student** with a passion for **Fullstack Web Development** and **AI Integration**.
+I am a **2nd-year Computer Science student** at the **University of Phayao**.
 
-I specialize in combining coding fundamentals with **AI-driven workflows** to build efficient and scalable web applications. My experience ranges from building standard web apps to integrating **GIS (Geospatial)** data and **Computer Vision** models into real-world projects.
+I am currently building strong foundations in programming and software development. While I focus on my academic studies, I love spending my free time building **Web Applications** and exploring **AI technologies**.
 
-Currently seeking an **internship opportunity** to contribute my skills to a professional team.
+I am looking for an **Internship** to gain real-world experience, learn from seniors, and improve my coding standard.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 💻 Core Stack
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,ts,react,nextjs,tailwind,bootstrap,html,css" />
+### 💻 Languages (Academic & Practice)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
 
-### 🗄️ Database & GIS
+### 🛠 Web Development (My Focus)
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,mysql" />
+  <br>
+  I can build functional web apps using <b>Python (Django/Flask)</b> and connect them to databases.
+</p>
+
+### 🔬 Exploring & Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,linux" />
   <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDAL-3C5A20?style=flat-square&logo=geopandas&logoColor=white" />
 </p>
 
-### 👁️ AI, Data & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,tensorflow" />
-  <img src="https://img.shields.io/badge/MediaPipe-00BACC?style=flat-square&logo=mediafire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-</p>
-
-### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,linux" />
-
-### 🤖 AI Assistants & Research
+### 🤖 AI-Assisted Workflow
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-AE4C33?style=flat-square&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity_AI-222222?style=flat-square&logo=perplexity&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects & Practical Experience
+## 🚀 Academic Projects
 
-Here are some key technologies I have applied in my academic projects:
+Examples of what I have built during my studies (Year 1–2):
 
-### 🌾 Agriculture & GIS (Smart Farming)
-- **Tech Stack:** Python, Django, PostGIS, Satellite Imagery (Sentinel-2/THEOS-2).
-- **What I did:** Developed a system for rice yield prediction and supply chain management using geospatial data analysis.
+### 🌾 Smart Farming Concept (Learning Project)
+- **Concept:** Analyzing rice yield data using Satellite Imagery.
+- **Tech Touched:** Python, Django, PostGIS, Sentinel-2 Data.
+- **Role:** Worked on backend logic and database models.
 
-### 🚗 AI & Computer Vision
-- **Tech Stack:** Python, MediaPipe, OpenCV, Django.
-- **What I did:** Built a **Driver Drowsiness Detection System** capable of real-time eye tracking and alert logging.
-- **Other AI:** Experience with **OCR (Google Cloud Vision)** and **K-Means Clustering** for data analysis.
-
-### 📅 Web Systems
-- **Tech Stack:** Fullstack Web Development.
-- **What I did:** Designed and prototyped a **Resource Reservation System** for the Faculty of ICT.
+### 🚗 Drowsiness Detection
+- **Concept:** Simple driver safety system using Computer Vision.
+- **Tech Touched:** Python, MediaPipe, OpenCV.
+- **Outcome:** Successfully detected eye states (open/closed) in real-time.
 
 ---
 
 ## 🎯 Internship Goals
 
-- Gain hands-on experience in a professional software development lifecycle (SDLC).
-- Apply **AI-assisted coding** and **Dockerized deployment** in real-world environments.
-- Master best practices in Clean Code, API Design, and Team Collaboration.
+- **Learn:** I want to learn clean code practices and industry standards.
+- **Experience:** I want to see how a real software team works.
+- **Contribute:** I am ready to help with tasks, fix bugs, and learn new tools quickly using AI assistants.
 
 ---
 
 ## 💬 Mindset
 
-> "Technology moves fast, but I learn faster.  
-> Committed to continuous improvement and delivering quality code."
+> "I might not know everything yet, but I am a fast learner and not afraid to ask questions."
 
 ---
 
