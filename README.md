@@ -44,7 +44,7 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 ## 🧠 Technical Skills
 
 ### 💻 Languages (Academic & Practice)
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js" />
 
 ### 🛠 Web Development (My Focus)
 <p>
