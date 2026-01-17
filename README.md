@@ -44,11 +44,11 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 ## 🧠 Technical Skills
 
 ### 💻 Languages (Academic & Practice)
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### 🛠 Web Development (My Focus)
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,bootstrap,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,bootstrap,postgres" />
   <br>
   I can build functional web apps using <b>Python (Django/Flask)</b> and connect them to databases.
 </p>
