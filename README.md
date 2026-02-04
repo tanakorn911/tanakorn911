@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=220&section=header&text=Computer%20Science%20Student&fontSize=40&fontColor=38bdf8&desc=Year%202%20@%20University%20of%20Phayao%20•%20Eager%20to%20Learn&descAlignY=70&animation=fadeIn" />
-</p>
-
-<h2 align="center">
-Hi, I'm Tanakorn Kaewmai 👋
-</h2>
+<p align="center"><a href="https://tanakorn911.github.io"><img width="80%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <p align="center">
 Computer Science Student (Year 2) • Aspiring Fullstack Developer
