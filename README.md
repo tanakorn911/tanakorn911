@@ -1,9 +1,5 @@
 <p align="center"><img width="60%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></a></p>
 
-<p align="center">
-Computer Science Student (Year 2) • Aspiring Fullstack Developer
-</p>
-
 ---
 
 ## 🌐 Contact & Social
