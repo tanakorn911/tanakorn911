@@ -69,30 +69,6 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 
 ---
 
-## 🚀 Academic Projects
-
-Examples of what I have built during my studies (Year 1–2):
-
-### 🌾 Smart Farming Concept (Learning Project)
-- **Concept:** Analyzing rice yield data using Satellite Imagery.
-- **Tech Touched:** Python, Django, PostGIS, Sentinel-2 Data.
-- **Role:** Worked on backend logic and database models.
-
-### 🚗 Drowsiness Detection
-- **Concept:** Simple driver safety system using Computer Vision.
-- **Tech Touched:** Python, MediaPipe, OpenCV.
-- **Outcome:** Successfully detected eye states (open/closed) in real-time.
-
----
-
-## 🎯 Internship Goals
-
-- **Learn:** I want to learn clean code practices and industry standards.
-- **Experience:** I want to see how a real software team works.
-- **Contribute:** I am ready to help with tasks, fix bugs, and learn new tools quickly using AI assistants.
-
----
-
 ## 💬 Mindset
 
 > "I might not know everything yet, but I am a fast learner and not afraid to ask questions."
