@@ -1,6 +1,4 @@
-<p align="center"><img width="40%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></a></p>
-
-<br />
+<p align="center"><img width="60%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></a></p>
 
 <p align="center">
 Computer Science Student (Year 2) • Aspiring Fullstack Developer
@@ -70,7 +68,3 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 > "I might not know everything yet, but I am a fast learner and not afraid to ask questions."
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2f/91/8e/2f918e0fbd8f7f7d3e8e4c2a58f0e3a9.gif" width="55%" />
-</p>
