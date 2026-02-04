@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Tanakorn. I do open source!" src="" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></a></p>
 
 <br />
 
