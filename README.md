@@ -1,4 +1,4 @@
-<p align="center"><img width="60%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></a></p>
+<p align="center"><img width="60%" alt="Hello, I'm Tanakorn. I do open source!" src="./assets/Tanakorn.png" /></p>
 
 ---
 
@@ -23,30 +23,38 @@
 
 ## 🎓 About Me
 
-I am a **3rd-year Computer Science student** at the **University of Phayao**.
+I am a **3rd-year Computer Science student** at the **University of Phayao**, passionate about building scalable web applications and automating workflows. 
 
-I am currently building strong foundations in programming and software development. While I focus on my academic studies, I love spending my free time building **Web Applications** and exploring **AI technologies**.
+My primary focus is shifting toward **Full-Stack Development** and **DevOps Practices**. I love bridging the gap between clean code and efficient deployment, ensuring that what I build runs smoothly from development to production.
 
-I am looking for an **Internship** to gain real-world experience, learn from seniors, and improve my coding standard.
+🚀 I am actively looking for an **Internship** as a **Full-Stack / DevOps Engineer** to tackle real-world challenges, elevate my coding standards, and learn from industry professionals.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 💻 Languages (Academic & Practice)
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### 🛠 Web Development (My Focus)
+### 🌐 Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,bootstrap,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind" />
   <br>
-  I can build functional web apps using <b>Python (Flask)</b> and connect them to databases.
+  <b>Frontend & Backend:</b> Developing responsive UIs with React and Tailwind CSS, while building robust server-side logic and RESTful APIs using Node.js and Python.
 </p>
 
-### 🔬 Exploring & Learning
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,docker,git,linux" />
+### 🛠️ Backend, Databases & Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres" />
+  <br>
+  <b>Data Management:</b> Proficient in relational database design with PostgreSQL and quick prototyping using Python (Flask).
+</p>
 
-### 🤖 AI-Assisted Workflow
+### 🚀 DevOps, Infrastructure & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+  <br>
+  <b>CI/CD & Automation:</b> Containerizing applications with Docker, managing environments in Linux, and maintaining clean, version-controlled codebases via Git.
+</p>
+
+### 🤖 AI-Driven Workflow (Leveraging Modern Tools)
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-AE4C33?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -61,6 +69,6 @@ I am looking for an **Internship** to gain real-world experience, learn from sen
 
 ## 💬 Mindset
 
-> "I might not know everything yet, but I am a fast learner and not afraid to ask questions."
+> "Building end-to-end applications isn't just about writing code—it's about understanding how it scales, deploys, and solves real problems. Ready to learn, automate, and grow."
 
 ---
