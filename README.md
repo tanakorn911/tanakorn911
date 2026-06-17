@@ -35,14 +35,14 @@ My primary focus is shifting toward **Full-Stack Development** and **DevOps Prac
 
 ### 🌐 Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
   <br>
   <b>Frontend & Backend:</b> Developing responsive UIs with React and Tailwind CSS, while building robust server-side logic and RESTful APIs using Node.js and Python.
 </p>
 
 ### 🛠️ Backend, Databases & Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,ts" />
+  <img src="https://skillicons.dev/icons?i=js,python,flask,postgres,ts" />
   <br>
   <b>Data Management:</b> Proficient in relational database design with PostgreSQL and quick prototyping using Python (Flask).
 </p>
