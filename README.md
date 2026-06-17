@@ -42,7 +42,7 @@ My primary focus is shifting toward **Full-Stack Development** and **DevOps Prac
 
 ### 🛠️ Backend, Databases & Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,ts" />
   <br>
   <b>Data Management:</b> Proficient in relational database design with PostgreSQL and quick prototyping using Python (Flask).
 </p>
