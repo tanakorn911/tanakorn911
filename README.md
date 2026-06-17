@@ -23,7 +23,7 @@
 
 ## 🎓 About Me
 
-I am a **2nd-year Computer Science student** at the **University of Phayao**.
+I am a **3rd-year Computer Science student** at the **University of Phayao**.
 
 I am currently building strong foundations in programming and software development. While I focus on my academic studies, I love spending my free time building **Web Applications** and exploring **AI technologies**.
 
